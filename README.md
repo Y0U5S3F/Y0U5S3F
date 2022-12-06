@@ -2,18 +2,12 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 <h1>
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Youssef Saidani
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+FSM+Monastir.;Computer+Science+Student.;Active+Learner/Researcher."></a>
 </p>
 </div>
-
-
-
-<br>
-
-
 	
 ## <picture><img src = "https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width = 50px></picture> **About me**
 
@@ -23,7 +17,7 @@
 
 - A passionate Software Engineering student.
 - Playing Piano/Chess at spare time.
-- Currently making an Operating System from scratch.
+- All of my projects are available <a href='https://github.com/UMAD1?tab=repositories'>Here<a/>.
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
