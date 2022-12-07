@@ -11,13 +11,13 @@
 	
 ## <picture><img src = "https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width = 50px></picture> **About me**
 
-<img src="https://komarev.com/ghpvc/?username=umad1&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
 <picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
 - A passionate Software Engineering student.
 - Playing Piano/Chess at spare time.
-- All of my projects are available <a href='https://github.com/UMAD1?tab=repositories'>Here<a/>.
+- All of my projects are available <a href='https://github.com/Y0U5S3F?tab=repositories'>Here<a/>.
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
@@ -68,10 +68,10 @@
 <br>
 
 <div align='center'>
-<a href="https://github.com/UMAD1/">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umad1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="umad1" bg_color=#808080 width='450'/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umad1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="umad1" width='450' /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=umad1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="umad1" width='450'/></p>
+<a href="https://github.com/Y0U5S3F/">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Y0U5S3F&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Y0U5S3F" bg_color=#808080 width='450'/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Y0U5S3F&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="Y0U5S3F" width='450' /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0U5S3F&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Y0U5S3F" width='450'/></p>
 </a>
 </div>
 <br>
