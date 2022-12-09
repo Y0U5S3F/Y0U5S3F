@@ -15,7 +15,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
 - A passionate Software Engineering student.
-- Playing Piano/Chess at spare time.
+- I play Piano/Chess at spare time.
 - All of my projects are available <a href='https://github.com/Y0U5S3F?tab=repositories'>Here<a/>.
 - I’m currently open for an Intern or a new job opportunity.
 
