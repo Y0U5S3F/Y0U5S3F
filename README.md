@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100"/>
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Youssef Saidani
@@ -9,11 +8,11 @@
 </p>
 </div>
 	
-## <picture><img src = "https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif " width = '40px'></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gi" width = '0px'></picture> **About me**
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
-<picture> <img align="right" src="https://tenor.com/bqrUA.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
 - A passionate Software Engineering student.
 - Playing Piano/Chess at spare time.
