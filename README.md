@@ -9,7 +9,7 @@
 </p>
 </div>
 	
-## <picture><img src = "https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width = 50px></picture> **About me**
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
