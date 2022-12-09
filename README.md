@@ -9,11 +9,11 @@
 </p>
 </div>
 	
-## <picture><img src = "" width = '40px'></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif " width = '40px'></picture> **About me**
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
-<picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://tenor.com/bqrUA.gif" width = 250px></picture>
 
 - A passionate Software Engineering student.
 - Playing Piano/Chess at spare time.
