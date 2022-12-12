@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+FSM+Monastir.;Computer+Science+Student.;Active+Learner/Researcher."></a>
 </p>
 </div>
-	
-## <picture><img src = "" width = '0px'></picture> **About me**
+<br><br>
+<h2>👨‍💻 About Me </h2>
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
@@ -19,10 +19,15 @@
 - All of my projects are available <a href='https://github.com/Y0U5S3F?tab=repositories'>Here<a/>.
 - I’m currently open for an Intern or a new job opportunity.
 
-<br><br>
+	
+	<p>
+	</p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<br>
+	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
