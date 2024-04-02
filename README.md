@@ -1,22 +1,12 @@
-<div id="header" align="center">
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Youssef Saidani
-</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+ISTIC+Borj+Cedria.;Computer+Science+Student.;Active+Learner/Researcher."></a>
-</p>
-</div>
-<br><br>
-<h2>👨‍💻 About Me </h2>
+<h2> About Me </h2>
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
 <picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
-- A Software Engineering student.
-- All of my projects are available <a href='https://github.com/Y0U5S3F?tab=repositories'>Here<a/>.
-- I’m currently open for an Intern or a new job opportunity.
+- Software Engineering Student
+- [View my projects on GitHub](https://github.com/Y0U5S3F?tab=repositories)
+- Currently seeking internship or job opportunities
 
 	
 	<p>
@@ -39,15 +29,18 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 	
 <br>   
     
 - **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  
+   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>
 
@@ -55,8 +48,27 @@
 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-      
+    ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white)
+    ![PyQt Designer](https://img.shields.io/badge/PyQt%20Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)      
+
+<br>
+
+- **IDEs/Editors**:
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+
+<br>
+
+- **Databases**:
+
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 <br>
 
 </p>
@@ -101,7 +113,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/SaidaniYoussef" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  @SaidaniYoussef-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
