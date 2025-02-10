@@ -105,7 +105,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/saidani-youssef-73bb07138/" target="_blank">
+<a href="https://www.linkedin.com/in/youssef-saidani/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Saidani Youssef-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
