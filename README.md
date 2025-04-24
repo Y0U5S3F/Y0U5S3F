@@ -5,7 +5,6 @@
 <picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
 - Software Engineering Student
-- [View my projects on GitHub](https://github.com/Y0U5S3F?tab=repositories)
 - Currently ziwziw
 
 	
