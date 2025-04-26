@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
 
 - Software Engineering Student
-- Currently ziwziw
+- Currently working on personal projects and growing my skills
 
 	
 	<p>
