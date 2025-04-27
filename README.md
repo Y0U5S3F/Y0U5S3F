@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
-<picture> <img align="right" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://tenor.com/btyRu.gif" width = 250px></picture>
 
 - Software Engineering Student
 - Currently working on personal projects and growing my skills
