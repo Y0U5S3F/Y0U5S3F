@@ -66,6 +66,8 @@
     ![PyQt Designer](https://img.shields.io/badge/PyQt%20Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+
 
 <br>
 
