@@ -7,7 +7,7 @@
 </picture>
 
 - Software Engineering Student
-- Currently working on personal projects and growing my skills
+- Continually growing my skills
 
 	
 	<p>
