@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Y0U5S3F&style=flat-square&color=blue" alt=""/>
 
 <picture>
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR3ZDlnenhhOW11anpzcnNjcnh4dmlmdTBwZnFodGg1YWNubmVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.gif" width="250px">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxcGE5azN6YnZubmxpZDI2eGp3bW9zNzVlbW0yOXlkYTZzYXJncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MuahUV0BEfitsFnUex/giphy.gif" width="250px">
 </picture>
 
 - Software Engineering Student
