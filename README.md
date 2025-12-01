@@ -147,7 +147,7 @@
 <br>
 
 <li>
-<a href="mailto:youssef.saidani@outlook.com" target="_blank">
+<a href="mailto:yousefsaidani19@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email     :  Youssef Saidani-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
