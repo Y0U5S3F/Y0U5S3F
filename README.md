@@ -102,28 +102,6 @@
 <br>
 <br>
 
------
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align='center'>
-<a href="https://github.com/Y0U5S3F/">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Y0U5S3F&&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Y0U5S3F" bg_color=#808080 width='450'/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Y0U5S3F&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="Y0U5S3F" width='450' /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Y0U5S3F&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Y0U5S3F" width='450'/></p>
-</a>
-</div>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 ## <b><img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width ="30"> Let's Connect</b>
 <br>
 <div align='left'>
